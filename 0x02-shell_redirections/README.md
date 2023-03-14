@@ -5,3 +5,4 @@
 4-latlines - script that displays last 10 lines in /etc/passwd.
 5-fistlines - script that displays the first 10 lines in /etc/passwd.
 6-third_line - script that displays thrid line in iacta.
+7-files - script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
